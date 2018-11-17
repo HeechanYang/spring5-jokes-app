@@ -1,0 +1,40 @@
+# this is a comment
+
+name: Heechan
+
+names: #Comment
+    - Heehcan
+    - Jemin
+    - Jaieun
+
+pound_sign: "#"
+
+book:
+    author: Joe Buck
+    publisher: random house
+
+truth: yes
+another_truth: True
+more_true: true
+
+false: no #No, flase, FALSE
+
+string_val: "This is it's quote"
+
+colon_string: "my courses: one the three"
+
+include_new_lines: |
+  asdf asdf asdf
+  asdfasdf asdf
+  asdf asd afga
+
+ignore_new_lines: >
+  This is
+  just one long
+  string
+
+guru:
+  jms:
+    username: JMS Username
+    password: somepass
+    dburl: SomeUrl
