@@ -3,6 +3,6 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <!-- 'chuckNorrisQuotes'라는 이름의 ChuckNorrisQuotes type Bean 생성 -->
-    <bean name="chuckNorrisQuotes" class="guru.springframework.norris.chuck.ChuckNorrisQuotes"/>
+    <!-- 'chuckNorrisQuotes2'라는 이름의 ChuckNorrisQuotes type Bean 생성 -->
+    <bean name="chuckNorrisQuotes2" class="guru.springframework.norris.chuck.ChuckNorrisQuotes"/>
 </beans>
